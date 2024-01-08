@@ -1,3 +1,13 @@
+Anggota Kelompok 2
+1. alfian Muhammad Fernanda    (230103258)
+2. Irfan Dwi Rangga Permana    (230103138)
+3. Erlangga Bayu Yudho Prakoso (230103133)
+
+		SOURCECODE REMASTER UBUNTU TEMA GAMER
+
+Password Login : 111
+Password Root  : 123
+
 Su
 [Password] : 123
 	apt update
@@ -15,10 +25,14 @@ install gnome-tweaks
 	apt install chrome-gnome-shell
 	apt install gnome-shell-extensions
 
+buat file logo yang ingin diubah
+
 ganti logo booting
 	cp -f ubuntu-logo.png /usr/share/plymouth
 	cp -f ubuntu-logo.png /usr/share/plymouth/ubuntu-logo
 	cp -f ubuntu-logo16.png /usr/share/plymouth/ubuntu-logo
+
+Downlaod tema, cursor, icon, dan shell dari gnome look
 
 ganti tema
 	cp -f cyanogen /usr/share/themes
