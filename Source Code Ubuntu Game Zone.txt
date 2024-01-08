@@ -1,0 +1,27 @@
+Su
+[Password] : 123
+	apt update
+	apt upgrade
+
+install  emulator dan launcher
+	apt install snap
+	snap install ppsspp-emu
+	add-apt-repository multiverse
+	apt install steam
+	steam
+
+install gnome-tweaks
+	apt install gnome-tweaks
+	apt install chrome-gnome-shell
+	apt install gnome-shell-extensions
+
+ganti logo booting
+	cp -f ubuntu-logo.png /usr/share/plymouth
+	cp -f ubuntu-logo.png /usr/share/plymouth/ubuntu-logo
+	cp -f ubuntu-logo16.png /usr/share/plymouth/ubuntu-logo
+
+ganti tema
+	cp -f cyanogen /usr/share/themes
+	cp -f magna-dark /usr/share/icons
+	cp -f sweet-dark-v40 /usr/share/themes
+	cp -f breeze-dark-lime /usr/share/icons
