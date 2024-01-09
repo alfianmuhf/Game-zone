@@ -3,6 +3,11 @@ Anggota Kelompok 2
 2. Irfan Dwi Rangga Permana    (230103138)
 3. Erlangga Bayu Yudho Prakoso (230103133)
 
+[ Link GameZone.ISO ]
+https://drive.google.com/file/d/1wOY32kdM2JDYvuuGdG1xjrDwlM7ZWmh6/view?usp=drive_link
+
+
+
 		SOURCECODE REMASTER UBUNTU TEMA GAMER
 
 Password Login : 111
@@ -39,3 +44,4 @@ ganti tema
 	cp -f magna-dark /usr/share/icons
 	cp -f sweet-dark-v40 /usr/share/themes
 	cp -f breeze-dark-lime /usr/share/icons
+
